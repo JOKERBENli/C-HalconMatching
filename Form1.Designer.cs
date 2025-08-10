@@ -101,7 +101,7 @@ namespace TemplateMatching
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(209, 23);
             this.button6.TabIndex = 1;
-            this.button6.Text = "加载测量图像";
+            this.button6.Text = "加载模板图像";
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
