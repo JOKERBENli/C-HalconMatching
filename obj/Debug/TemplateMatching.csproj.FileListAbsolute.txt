@@ -1,0 +1,12 @@
+D:\C#Project\TemplateMatching\bin\Debug\TemplateMatching.exe
+D:\C#Project\TemplateMatching\bin\Debug\TemplateMatching.pdb
+D:\C#Project\TemplateMatching\obj\Debug\TemplateMatching.csproj.AssemblyReference.cache
+D:\C#Project\TemplateMatching\obj\Debug\TemplateMatching.Form1.resources
+D:\C#Project\TemplateMatching\obj\Debug\TemplateMatching.Properties.Resources.resources
+D:\C#Project\TemplateMatching\obj\Debug\TemplateMatching.csproj.GenerateResource.cache
+D:\C#Project\TemplateMatching\obj\Debug\TemplateMatching.csproj.CoreCompileInputs.cache
+D:\C#Project\TemplateMatching\obj\Debug\TemplateMatching.exe
+D:\C#Project\TemplateMatching\obj\Debug\TemplateMatching.pdb
+D:\C#Project\TemplateMatching\bin\Debug\halcondotnet.dll
+D:\C#Project\TemplateMatching\bin\Debug\halcondotnet.xml
+D:\C#Project\TemplateMatching\obj\Debug\TemplateMatching.csproj.CopyComplete
