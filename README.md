@@ -134,5 +134,4 @@ private void UpdateROIData(HDrawingObject drawid, int index)
 5.加载测量图像  
 6.加载模板图像  
 7.执行定位与测量  
-
 ![alt text](image-5.png)
